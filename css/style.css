@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(134, 168, 163);
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: rgb(252, 252, 252);
+}
+
+.content {
+    overflow: hidden;
+    color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav {
+    height: 500px;
+    width: 25%;
+    background-color: blue;
+    float: left;
+    color: aliceblue;
+}
+
+.main {
+    height: 700px;
+    width: 50%;
+    background-color: blueviolet;
+    float: left;
+    color: aliceblue;
+}
+
+.add {
+    height: 350px;
+    width: 25%;
+    background-color: brown;
+    float: right;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: aliceblue;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: rgb(252, 252, 252);
+}
